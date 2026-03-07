@@ -69,7 +69,7 @@ The iris flower dataset contains measurements of three species: **setosa**, **ve
 
 **Dataset:** Available in the Scikit-learn library or downloadable from external sources
 
-[View Iris Flower Classification Notebook →](./Task_1_Iris_Flower_Classification/)
+[View Iris Flower Classification Notebook →](Iris_Flower_Classification.ipynb)
 
 ---
 
@@ -88,7 +88,7 @@ Unemployment is measured by the unemployment rate, which is the number of unempl
 
 **Dataset:** Download from the provided source
 
-[View Unemployment Analysis Notebook →](./Task_2_Unemployment_Analysis/)
+[View Unemployment Analysis Notebook →](./Unemployment_Analysis.ipynb)
 
 ---
 
@@ -115,7 +115,7 @@ Car price prediction is one of the major research areas in machine learning. Thi
 
 **Dataset:** Download from the provided source
 
-[View Car Price Prediction Notebook →](./Task_3_Car_Price_Prediction/)
+[View Car Price Prediction Notebook →](./Car_Price_Prediction.ipynb)
 
 ---
 
@@ -139,7 +139,7 @@ In this project, we use Python and machine learning to train a spam detector tha
 
 **Dataset:** Download from the provided source
 
-[View Email Spam Detection Notebook →](./Task_4_Email_Spam_Detection/)
+[View Email Spam Detection Notebook →](./SpamDetector.ipynb)
 
 ---
 
@@ -165,7 +165,7 @@ Typically, product and service-based businesses use Data Scientists to predict f
 
 **Dataset:** Download from the provided source
 
-[View Sales Prediction Notebook →](./Task_5_Sales_Prediction/)
+[View Sales Prediction Notebook →](./SalesPrediction.ipynb)
 
 ---
 
